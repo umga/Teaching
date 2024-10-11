@@ -8,7 +8,7 @@ This repository contains a Jupyter notebook that demonstrates the use of **Princ
 
 You can interact with this notebook directly in your browser without installing anything! Simply click the Binder badge below, and it will launch the notebook in a live, interactive environment.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PCA_Example/main?filepath=PCA_example.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/umga/Teaching/main?filepath=PCA_homework.ipynb)
 
 Once you launch the notebook:
 1. You will be able to run the code cells by pressing **Shift + Enter**.
@@ -34,7 +34,3 @@ If you want to save your changes, follow these steps:
 ## Requirements
 
 - You don’t need to install anything to run this notebook in Binder. Just click the Binder link and get started!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
