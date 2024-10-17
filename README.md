@@ -2,11 +2,11 @@
 
 # PCA Example Notebook
 
-This repository contains a Jupyter notebook that demonstrates the use of **Principal Component Analysis (PCA)** using the Iris dataset. PCA is a widely used technique for dimensionality reduction, often used in machine learning and data visualization tasks.
+This repository contains a Jupyter notebook that demonstrates the use of **Principal Component Analysis (PCA)** using the 'Admission Officer' example we discussed in the class. PCA is a widely used technique for dimensionality reduction, often used in machine learning and data visualization tasks.
 
 ## How to Use This Notebook
-
-You can interact with this notebook directly in your browser without installing anything! Simply click the Binder badge below, and it will launch the notebook in a live, interactive environment.
+You can download the code and work with this code on a jupyter notebook from your browser or from any platform you can use Python. 
+Or you can interact with this notebook directly in your browser without installing anything! Simply click the Binder badge below, and it will launch the notebook in a live, interactive environment. This can take some time to open it. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/umga/Teaching/main?filepath=PCA_homework.ipynb)
 
@@ -20,10 +20,9 @@ Once you launch the notebook:
 **Principal Component Analysis (PCA)** is a statistical method used to reduce the dimensionality of a dataset while preserving as much information (variance) as possible. It is often used in the fields of machine learning and data analysis to simplify models, reduce noise, and visualize high-dimensional data.
 
 ### Contents of the Notebook
-- **Loading the Iris dataset**: A popular dataset consisting of 150 samples of iris flowers with 4 features.
+- **Creating the dataset**: Consisting of 3 stduents with 5 features.
 - **Standardizing the data**: Preprocessing step to ensure all features have the same scale.
-- **Applying PCA**: Reducing the dimensionality of the dataset from 4 dimensions to 2 dimensions.
-- **Visualizing PCA**: Using scatter plots to visualize how PCA transforms the data.
+- **Applying PCA**: Reducing the dimensionality of the dataset from 5 dimensions to 2 dimensions.
 
 ## How to Save Your Work
 
@@ -31,6 +30,3 @@ If you want to save your changes, follow these steps:
 1. Go to **File > Download as > Notebook (.ipynb)** to download your modified notebook.
 2. You can then upload the notebook to your own Jupyter environment or share it with others.
 
-## Requirements
-
-- You don’t need to install anything to run this notebook in Binder. Just click the Binder link and get started!
