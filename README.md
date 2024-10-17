@@ -1,8 +1,10 @@
 # Teaching
 
-# PCA Example Notebook
+# Introductory Lecture on PCA 
 
-This repository contains a Jupyter notebook that demonstrates the use of **Principal Component Analysis (PCA)** using the 'Admission Officer' example we discussed in the class. PCA is a widely used technique for dimensionality reduction, often used in machine learning and data visualization tasks.
+This repository contains a Jupyter notebook demonstrating the use of **Principal Component Analysis (PCA)** using the 'Admission Officer' example we discussed in class. You will also see the lecture notes in this repository. 
+
+PCA is a widely used technique for dimensionality reduction, often used in machine learning and data visualization tasks.
 
 ## How to Use This Notebook
 You can download the code and work with this code on a jupyter notebook from your browser or from any platform you can use Python. 
